@@ -88,7 +88,7 @@ google-resumable-media==1.2.0
 googleapis-common-protos==1.53.0
 graphviz==0.16
 greenlet==0.4.15
-grpcio==1.32.0
+grpcio==1.53.0
 h5py==2.10.0
 heapdict==1.0.0
 hpsklearn==0.1.0
